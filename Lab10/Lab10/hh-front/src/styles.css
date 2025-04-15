@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+div{
+  background: lightblue;
+  padding: 5px;
+  border: black;
+  box-shadow: 0 4px 8px black;
+  border-style: solid;
+  border-width: 3px;
+  max-width: 500px;
+
+}
